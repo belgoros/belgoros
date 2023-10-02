@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @belgoros
-- 👀 I’m interested in Ruby, Ruby on Rails, Elixir and Phoenix
+- 👀 I’m interested in Ruby, Ruby on Rails, Elixir and Phoenix projects contribution
 - 🌱 I’m currently learning Elixir/Phoenix
 - 💞️ I’m looking to collaborate on Ruby, Rails, Elixir, Phoenix
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/sergueicambour), [Twitter](https://twitter.com/belgoros)
